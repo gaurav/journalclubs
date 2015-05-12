@@ -1,3 +1,6 @@
+# Ignore config files.
+config.R
+
 # Ignore autosaves
 *(Autosaved).R 
 

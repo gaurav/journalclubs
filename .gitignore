@@ -1,3 +1,6 @@
+# Ignore autosaves
+*(Autosaved).R 
+
 # History files
 .Rhistory
 .Rapp.history
